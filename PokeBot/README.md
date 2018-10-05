@@ -1,9 +1,3 @@
-PokeBot
+Pokebot Requirements:
 
-A Pokemon bot for Discord. Learn about Pokemon, catch Pokemon, and battle Pokemon!
-
-Stage 1: Complete! Goals: Be able to search for any Pokemon. The bot should respond with general stats, ID, and a picture. Secondary Goals: Make a Random Pokemon function. Make custom memes.
-
-Stage2: Semi-complete! Couple of GUI issues and weird bugs to work out. Goals: Be able to catch pokemon. Legendaries should be harder to catch, pokemon should be able to break free. Caught pokemon should be stored to a database. Stored pokemon should be able to be recalled, along with their stats (which should be randomized), based on their "trainer" Secondary Goals: PokeBalls! (not achieved yet)
-
-Stage 3: Not Started Goals: Pokemon Fighting! I have no idea what the goals for this would be yet. Secondary Goals: ...Gym Badges?
+Running the pokebot will require creating a file called "secrets.json" and placing a discord bot token inside an array in the file.
